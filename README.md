@@ -1,2 +1,2 @@
 # mycode
-Auther - shivraj
+Author - shivraj
